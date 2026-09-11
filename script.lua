@@ -63,7 +63,7 @@ local function LoadMainScript()
     end
     
     -- LOADSTRING SCRIPT UTAMA
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/MichelLyJow/MichelScriptv2/refs/heads/main/script.lua'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/MichelLyJow/LibraryScriptMichel/refs/heads/main/script.lua'))()
 end
 
 -- AUTO EXECUTE JIKA KEY TERSIMPAN MASIH AKTIF (BELUM 7 JAM)
