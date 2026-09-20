@@ -6,7 +6,7 @@ local HttpService = game:GetService("HttpService")
 
 -- Configuration
 local WEB_URL = "https://michel-script-key-system.pages.dev"
-local KEY_FILE = "MichelKey_V878.txt"
+local KEY_FILE = "MichelKey_V888.txt"
 local PREMIUM_KEY_FILE = "MichelPremiumKey_V878.txt"
 local PREMIUM_RAW_URL = "https://pastefy.app/63zSf0de/raw"
 local EXPIRE_TIME = 7 * 3600 -- 7 Hours
